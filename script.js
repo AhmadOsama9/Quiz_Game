@@ -87,15 +87,6 @@ const questions = [
       ]
     },
     {
-      question: "Which country gifted the Statue of Liberty to the United States?",
-      answers: [
-        { text: "France", correct: true },
-        { text: "Spain", correct: false },
-        { text: "Italy", correct: false },
-        { text: "Germany", correct: false }
-      ]
-    },
-    {
       question: "What is the largest country in the world by land area?",
       answers: [
         { text: "Canada", correct: false },
